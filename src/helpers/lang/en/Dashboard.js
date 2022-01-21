@@ -1,0 +1,20 @@
+export default {
+    breadcrumb: ['dashboard'],
+    statistics: {
+        totalOrders: 'Total Orders',
+        totalAdmins: 'Total Admins',
+        totalCarts: 'Total Carts',
+        totalFeaturedProduct: 'Total Featured Products',
+        totalMainCategory: 'Total Main Category',
+        totalProducts: 'Total Products',
+        totalSubCategory: 'Total Sub Category',
+        totalUsers: 'Total Users',
+        totalPendingUsers: 'Total Pending Users',
+        totalUsersRejected: 'total Rejected Users',
+    },
+    pageName: 'Dashboard',
+    latestPosts: 'Latest Posts',
+    latestEvents: 'Latest Events',
+    latestVideos: 'Latest Videos',
+    postsChart: 'Posts Chart',
+}
